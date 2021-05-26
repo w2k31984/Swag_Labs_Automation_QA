@@ -28,6 +28,7 @@ https://drive.google.com/drive/folders/11DT0TlA04OAKHvV_HIM-l_e8lDRd00zU?usp=sha
 #Ejecutando las pruebas ⚙️
 
 -Sitio para la ejecucion de pruebas: https://www.saucedemo.com/
+
 -Para la ejecucion de pruebas utilizaremos el webdriver para Chrome:
 
 
@@ -42,6 +43,7 @@ Microsoft Edge Driver - Microsoft Edge Developer: https://developer.microsoft.co
 
 
 *Cristian Parada / Tester QA Manual & Automation Python
+
 -contacto: cmpmendoza12@gmail.com
 
 
