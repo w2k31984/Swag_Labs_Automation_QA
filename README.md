@@ -4,13 +4,13 @@
 
 
 
-#Comenzando 🚀
+**Comenzando** 🚀
 
 Proyecto para portafolio de pruebas de QA Automatizadas en sitio de ecommerce de Swag Labs.
 
 
 
-#Pre-requisitos 📋
+**Pre-requisitos** 📋
 
 Tener Python instalado en el ordenador de preferencia Python 3.0 en adelante.
 -Descargar e Instalar Pycharm version community
@@ -19,13 +19,13 @@ Tener Python instalado en el ordenador de preferencia Python 3.0 en adelante.
 
 
 
-#Archivo de Casos de Pruebas 🔧
+**Archivo de Casos de Pruebas** 🔧
 
 -El archivo de Test Script para casos de prueba que se realizaran se encuentran en:
 https://drive.google.com/drive/folders/11DT0TlA04OAKHvV_HIM-l_e8lDRd00zU?usp=sharing
 
 
-#Ejecutando las pruebas ⚙️
+**Ejecutando las pruebas** ⚙️
 
 -Sitio para la ejecucion de pruebas: https://www.saucedemo.com/
 
@@ -39,7 +39,7 @@ Microsoft Edge Driver - Microsoft Edge Developer: https://developer.microsoft.co
 
 
 
-#Autor ✒️
+**Autor** ✒️
 
 
 *Cristian Parada / Tester QA Manual & Automation Python
@@ -47,14 +47,14 @@ Microsoft Edge Driver - Microsoft Edge Developer: https://developer.microsoft.co
 -contacto: cmpmendoza12@gmail.com
 
 
-#Licencia 📄
+**Licencia** 📄
 
 
 -Este proyecto está bajo la Licencia MIT 2.0 - mira el archivo LICENSE.md para detalles.
 
 
 
-#Expresiones de Gratitud 🎁
+**Expresiones de Gratitud** 🎁
 
 -Comenta a otros sobre este proyecto 📢.
 
