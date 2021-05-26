@@ -1,5 +1,5 @@
 # Swag_Labs_Automation_QA
--Practica de Automation Testing QA en sitio de Ecommerce de Swag Labs.
+*Practica de Automation Testing QA en sitio de Ecommerce de Swag Labs.
 
 #Comenzando 🚀
 Proyecto para portafolio de pruebas de QA Automatizadas en sitio de ecommerce de Swag Labs.
@@ -17,7 +17,7 @@ Tener Python instalado en el ordenador de preferencia Python 3.0 en adelante.
 https://drive.google.com/drive/folders/11DT0TlA04OAKHvV_HIM-l_e8lDRd00zU?usp=sharing
 
 #Ejecutando las pruebas ⚙️
-
+-Sitio para la ejecucion de pruebas: https://www.saucedemo.com/
 -Para la ejecucion de pruebas utilizaremos el webdriver para Chrome:
 
 WebDriver para Chrome - Downloads ChromeDriver: https://chromedriver.chromium.org
@@ -26,7 +26,7 @@ Microsoft Edge Driver - Microsoft Edge Developer: https://developer.microsoft.co
 
 #Autor ✒️
 
--Cristian Parada 
+*Cristian Parada / Tester QA Manual & Automation Python
 -contacto: cmpmendoza12@gmail.com
 
 #Licencia 📄
