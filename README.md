@@ -16,9 +16,9 @@ https://drive.google.com/drive/folders/11DT0TlA04OAKHvV_HIM-l_e8lDRd00zU?usp=sha
 #Ejecutando las pruebas ⚙️
 Para la ejecucion de pruebas utilizaremos el webdriver para Chrome:
 
-WebDriver para Chrome - Downloads - ChromeDriverhttps://chromedriver.chromium.org
+WebDriver para Chrome - Downloads ChromeDriver: https://chromedriver.chromium.org
 
-Microsoft Edge Driver - Microsoft Edge Developerhttps://developer.microsoft.com 
+Microsoft Edge Driver - Microsoft Edge Developer: https://developer.microsoft.com 
 
 #Autor ✒️
 Cristian Parada 
@@ -26,3 +26,8 @@ contacto: cmpmendoza12@gmail.com
 
 #Licencia 📄
 Este proyecto está bajo la Licencia MIT 2.0 - mira el archivo LICENSE.md para detalles.
+
+#Expresiones de Gratitud 🎁
+Comenta a otros sobre este proyecto 📢
+Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
+Da las gracias públicamente 🤓.
