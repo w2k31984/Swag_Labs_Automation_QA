@@ -2,9 +2,13 @@
 
 *Practica de Automation Testing QA en sitio de Ecommerce de Swag Labs.
 
+
+
 #Comenzando 🚀
 
 Proyecto para portafolio de pruebas de QA Automatizadas en sitio de ecommerce de Swag Labs.
+
+
 
 #Pre-requisitos 📋
 
@@ -12,6 +16,8 @@ Tener Python instalado en el ordenador de preferencia Python 3.0 en adelante.
 -Descargar e Instalar Pycharm version community
 -Tener instalado GIT en el ordenador.
 -Tener instalado navegador (Chrome u otro navegador para desplegar las pruebas)
+
+
 
 #Archivo de Casos de Pruebas 🔧
 
@@ -24,9 +30,13 @@ https://drive.google.com/drive/folders/11DT0TlA04OAKHvV_HIM-l_e8lDRd00zU?usp=sha
 -Sitio para la ejecucion de pruebas: https://www.saucedemo.com/
 -Para la ejecucion de pruebas utilizaremos el webdriver para Chrome:
 
+
+
 WebDriver para Chrome - Downloads ChromeDriver: https://chromedriver.chromium.org
 
 Microsoft Edge Driver - Microsoft Edge Developer: https://developer.microsoft.com 
+
+
 
 #Autor ✒️
 
