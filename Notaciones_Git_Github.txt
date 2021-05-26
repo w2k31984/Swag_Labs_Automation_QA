@@ -1,0 +1,34 @@
+Si al realizar el proceso de subir los archivos a repositorio 
+sucede que no esta reconociendo el master en la rama remota se 
+hara lo siguiente:
+
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
+
+git push -u origin master
+
+Al dar error se hara lo siguiente:
+
+git fetch origin master:tmp
+
+git rebase tmp
+
+git push origin HEAD:master
+
+git branch -D tmp
+
+O tambien podemos utilizar:
+git push origin master --force
+
+git push --force origin master
+
+O el corto:
+git push origin master -f
+
+Con ello luego volver a realizar el :
+git push -u origin master
