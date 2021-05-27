@@ -1,4 +1,5 @@
-##Test Automatizado para caso de prueba de ver la descripcion de un producto al seleccionarlo.
+##Test Automatizado para caso de prueba de ver la descripcion de un producto al seleccionarlo
+#retornar a pantalla de productos.
 import time
 import HtmlTestRunner
 import unittest
@@ -26,7 +27,7 @@ class myTestProductDescription(unittest.TestCase):
 #Dando click en un producto para ver su descripcion.
         driver.find_element_by_xpath('/html/body/div/div/div/div[2]/div/div/div/div[1]/div[2]/div[1]/a/div').click()
         time.sleep(2)
-#Regresar a pagina de todos los productos.
+#Regresar a pagina de todos los productos dando click a boton.
         driver.find_element_by_id('back-to-products').click()
         time.sleep(2)
         driver.stop_client()
