@@ -71,14 +71,11 @@ class myTestcheckoutProducts(unittest.TestCase):
     # Realizar Scroll en la pagina para ver boton de ckeckout
         driver.execute_script('window.scrollTo(0,document.body.scrollHeight)')
         time.sleep(3)
-    #Boton de finalizar
-        driver.find_element_by_id('finish').click()
-        time.sleep(3)
+    #Boton de Cancelar
+        driver.find_element_by_id('cancel').click()
+        time.sleep(4)
         driver.stop_client()
         driver.quit()
 
 if __name__ == '__main__':
     unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output=r'C:\Users\cristian_parada\Desktop\Automatizacion_Test_Cases_Ecommerce\Reports'))
-
-
-
