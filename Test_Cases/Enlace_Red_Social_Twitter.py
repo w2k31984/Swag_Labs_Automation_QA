@@ -4,9 +4,8 @@ import HtmlTestRunner
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-
-class myTestLinkSocialNetworkFb(unittest.TestCase):
-    def testLinkSocialNetworkFb(self):
+class myTestLinkSocialNetworkTw(unittest.TestCase):
+    def testLinkSocialNetworkTw(self):
         driver = webdriver.Chrome(executable_path=r'C:\\Users\\cristian_parada\\Desktop\\Automatizacion_Test_Cases_Ecommerce\\chromedriver.exe')
         driver.get('https://www.saucedemo.com/')
         time.sleep(2)
@@ -21,22 +20,22 @@ class myTestLinkSocialNetworkFb(unittest.TestCase):
 
         driver.find_element_by_id('login-button').click()
         time.sleep(2)
-#Haciendo scroll a la pagina e ir a enlaces de redes sociales
+        # Haciendo scroll a la pagina e ir a enlaces de redes sociales
         driver.find_element_by_tag_name('body').send_keys(Keys.CONTROL + Keys.HOME)
         time.sleep(7)
-#Dando click a enlaces de redes sociales.
+        # Dando click a enlaces de redes sociales.
 
         # Haciendo click en icono de red social facebook y desplegando en ventana nueva en navegador
-        driver.find_element_by_class_name('social_facebook').click()
+        driver.find_element_by_class_name('social_twitter').click()
         time.sleep(2)
 
-        #Regresando a la pagina de productos
+        # Regresando a la pagina de productos
         driver.back()
         time.sleep(5)
 
         driver.stop_client()
         driver.close()
 
+
 if __name__ == '__main__':
     unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output=r'C:\Users\cristian_parada\Desktop\Automatizacion_Test_Cases_Ecommerce\Reports'))
-
